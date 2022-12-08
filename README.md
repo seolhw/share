@@ -119,3 +119,16 @@ The best way to learn Redwood is by going through the comprehensive [tutorial](h
 
 - Stay updated: read [Forum announcements](https://community.redwoodjs.com/c/announcements/5), follow us on [Twitter](https://twitter.com/redwoodjs), and subscribe to the [newsletter](https://redwoodjs.com/newsletter)
 - [Learn how to contribute](https://redwoodjs.com/docs/contributing)
+
+
+
+## CLI List
+
+- yarn rw dev
+- yarn rw g page home /
+- yarn rw g page about
+- yarn rw g layout blog
+- yarn rw prisma migrate dev
+- yarn rw prisma studio
+- yarn rw g scaffold post
+- yarn rw g cell Articles
